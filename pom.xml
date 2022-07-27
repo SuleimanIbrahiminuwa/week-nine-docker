@@ -69,7 +69,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>sule-week-ten-docker</finalName>
+        <finalName>docker-cid-cd</finalName>
     </build>
 
 </project>
