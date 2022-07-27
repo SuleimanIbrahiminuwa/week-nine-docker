@@ -11,7 +11,7 @@ services:
   postgresqldb:
     image: postgres
     ports:
-      - "5431:5431"
+      - "5431:5432"
     environment:
       - POSTGRES_PASSWORD=12345
       - POSTGRES_USER=postgres
